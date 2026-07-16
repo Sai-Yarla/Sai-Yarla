@@ -58,6 +58,6 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sai-Yarla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sai's GitHub Stats" height="170" />
   </a>
   <a href="https://github.com/Sai-Yarla">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sai-Yarla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" height="170" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sai-Yarla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6&count_private=true" alt="Top Languages" height="170" />
   </a>
 </p>
