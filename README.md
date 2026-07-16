@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student & Full-Stack Developer 🎓</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a developer who loves building creative web applications, handy automation tools, and browser extensions. I'm always looking for ways to turn interesting ideas into code—whether it's bringing an Elo rating system to movies or automating speedruns.
+  Welcome to my GitHub profile! I'm a developer who loves building creative web applications, handy automation tools, and browser extensions. I'm always looking for ways to turn interesting ideas into code, whether it's bringing an Elo rating system to movies or automating speedruns.
 </p>
 
 ---
